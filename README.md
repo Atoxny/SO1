@@ -1,12 +1,8 @@
  SO1
-<<<<<<< HEAD
 ## SO1
-
-=======
-# SO1
->>>>>>> 810c5cbac962765a1cae336a9e6843cd2bd4b0ec
+#
 # 0 Level 
-  ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+    ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 # 1 level
     1  ls
     2  ls -la
@@ -32,7 +28,7 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
     7  cat H*
     8  cat ...Hiding-From-You
     9  history
-    2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 # 4 level
     1  ls
     2  cat inhere
@@ -52,8 +48,7 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
    16  cat ./-file06
    17  cat ./-file07
    18  history
-    4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
-<<<<<<< HEAD
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 # 5 level
     1  ls
     2  cd inhere
@@ -61,10 +56,25 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
     4  find ./ -type f -size 1033c
     5  cat ./maybehere07/.file2
     6  history
-    HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 # 6 level
-    
-    
-
-=======
->>>>>>> 810c5cbac962765a1cae336a9e6843cd2bd4b0ec
+    1  ls -a
+    2  find / -user bandit7 -group bandit6 -size 33c
+    3  cat /var/lib/dpkg/info/bandit7.password
+    4  history
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+# 7 level
+    1  ls
+    2  grep millionth data.txt
+    3  history  
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+# 8 level
+    1  ls
+    2  sort data.txt | uniq -u
+    3  history
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+# 9 level
+    1  ls
+    2  strings "===" data.txt
+    3  history
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
