@@ -1,6 +1,10 @@
  SO1
+<<<<<<< HEAD
 ## SO1
 
+=======
+# SO1
+>>>>>>> 810c5cbac962765a1cae336a9e6843cd2bd4b0ec
 # 0 Level 
   ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 # 1 level
@@ -49,6 +53,7 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
    17  cat ./-file07
    18  history
     4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+<<<<<<< HEAD
 # 5 level
     1  ls
     2  cd inhere
@@ -61,3 +66,5 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
     
     
 
+=======
+>>>>>>> 810c5cbac962765a1cae336a9e6843cd2bd4b0ec
