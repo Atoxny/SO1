@@ -98,36 +98,36 @@ dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
     7  ls
     8  cat hexadecimal
     9  xxd -r hexadecimal comprimido
-   10  ls
-   11  cat hexadecimal
-   12  mv comprimido comprimido.gz
-   13  gzip -d comprimido.gz
-   14  ls
-   15  xxd comprimido
-   16  mv comprimido comprimido.bz2
-   17  ls
-   18  bzip2 -d comprimido.bz2
-   19  xxd comprimido
-   20  mv comprimido comprimido.gz
-   21  gzip -d comprimido.gz
-   22  xxd comprimido |head
-   23  mv comprimido comprimido.tar
-   24  tar -xf comprimido.tar
-   25  ls
-   26  xxd data5.bin |head
-   27  tar -xf data5.bin
-   28  ls
-   29  xxd data6.bin
-   30  bzip2 -d data6.bin
-   31  ls
-   32  tar -xf data6.bin.out
-   33  ls
-   34  xxd data8.bin
-   35  mv data8.bin data8.gz
-   36  gzip -d data8.gz
-   37  ls
-   38  cat data8
-   39  history
+    10  ls
+    11  cat hexadecimal
+    12  mv comprimido comprimido.gz
+    13  gzip -d comprimido.gz
+    14  ls
+    15  xxd comprimido
+    16  mv comprimido comprimido.bz2
+    17  ls
+    18  bzip2 -d comprimido.bz2
+    19  xxd comprimido
+    20  mv comprimido comprimido.gz
+    21  gzip -d comprimido.gz
+    22  xxd comprimido |head
+    23  mv comprimido comprimido.tar
+    24  tar -xf comprimido.tar
+    25  ls
+    26  xxd data5.bin |head
+    27  tar -xf data5.bin
+    28  ls
+    29  xxd data6.bin
+    30  bzip2 -d data6.bin
+    31  ls
+    32  tar -xf data6.bin.out
+    33  ls
+    34  xxd data8.bin
+    35  mv data8.bin data8.gz
+    36  gzip -d data8.gz
+    37  ls
+    38  cat data8
+    39  history
 FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 # 13 level
     1 scp -P 2220 bandit13@bandit.labs.overthewire.org:sshkey.private .
@@ -252,6 +252,18 @@ gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
     9 history
 iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
 # 25 level
+    1 id
+    2 ls -l
+    3 cat /etc/passwd | grep bandit26
+    4 cat /usr/bin/showtext
+    5 ssh -oHostKeyAlgorithms=+ssh-dss -i bandit26.sshkey bandit26@localhost -p 2220
+    6 :set shell=/bin/bash
+    7 :sh
+    8 id
+    9 cat /etc/bandit_pss/bandit26
+    10 set shell = bin/bash
+    11 :sh
+s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
 
 
 
