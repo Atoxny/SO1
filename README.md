@@ -136,9 +136,9 @@ FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
     4 ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220
     5 history
 # 14 level
-MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
     1  cat /etc/bandit_pass/bandit14
     2  nc localhost 30000
     3  nc localhost 30000
     4  history
+MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
