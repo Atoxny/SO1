@@ -78,3 +78,54 @@ dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
     2  strings "===" data.txt
     3  history
 FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+# 10 level
+    1  ls
+    2  base64 -d data.txt
+    3  history
+dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+# 11 level
+    1  ls
+    2  cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+    3  history
+7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+# 12 level
+    1  ls
+    2  cd /tmp
+    3  mktemp -d
+    4  cd /tmp/tmp.GnTO6Bp4tH
+    5  cp ~/data.txt .
+    6  mv data.txt hexadecimal
+    7  ls
+    8  cat hexadecimal
+    9  xxd -r hexadecimal comprimido
+   10  ls
+   11  cat hexadecimal
+   12  mv comprimido comprimido.gz
+   13  gzip -d comprimido.gz
+   14  ls
+   15  xxd comprimido
+   16  mv comprimido comprimido.bz2
+   17  ls
+   18  bzip2 -d comprimido.bz2
+   19  xxd comprimido
+   20  mv comprimido comprimido.gz
+   21  gzip -d comprimido.gz
+   22  xxd comprimido |head
+   23  mv comprimido comprimido.tar
+   24  tar -xf comprimido.tar
+   25  ls
+   26  xxd data5.bin |head
+   27  tar -xf data5.bin
+   28  ls
+   29  xxd data6.bin
+   30  bzip2 -d data6.bin
+   31  ls
+   32  tar -xf data6.bin.out
+   33  ls
+   34  xxd data8.bin
+   35  mv data8.bin data8.gz
+   36  gzip -d data8.gz
+   37  ls
+   38  cat data8
+   39  history
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
