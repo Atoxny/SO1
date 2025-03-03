@@ -336,6 +336,33 @@ qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL
     12  git show secret
     13  history
 fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy
+# 31 level
+    1  mkdir /tmp/ejercicio31
+    2  cd /tmp/ejercicio31
+    3  git clone ssh://bandit31-git@localhost:2220/home/bandit31-git/repo   
+    4  ls
+    5  cd repo
+    6  ls
+    7  cat README.md
+    8  git branch -a
+    9  echo "May I come in?" > key.txt
+    10  cat key.txt
+    11  git status
+    12  git add key.txt
+    13  cat .gitignore
+    14  git add -f key.txt
+    15  git status
+    16  git commit -m "se añadio key.txt file"
+    17  git status
+    18  git push
+    19  history3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K
+
+# 32 level
+    1 ^D &0
+    2 echo "&0"
+    3 ls
+    4 cat /etc/bandit_pass/bandit33
+tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0
 
 
 
