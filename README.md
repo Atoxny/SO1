@@ -264,6 +264,79 @@ iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
     10 set shell = bin/bash
     11 :sh
 s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
+# 26 level
+    1 ssh bandit26@bandit.labs.overthewire.org -p 2220
+    2 v
+    3 :set shell=/bin/bash
+    4 :shell
+    5 ls
+    6 file bandit27-do
+    7 ls -l bandit27-do
+    8 ./bandit-do
+    9 ./bandit27-do id
+    10 ./bandit27-do cat /etc/bandit_pass/bandit27
+upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
+# 27 level
+    1 mkdir /tmp/anthonny
+    2 cd /tmp/anthonny
+    3 git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
+    4 ls
+    5 cd repo
+    6 cat README
+Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN
+# 28 level
+    1  mkdir /tmp/28
+    2  cd /tmp/28
+    3  git clone ssh://bandit28-git@localhost:2220/home/bandit28-git/repo 
+    4  ls
+    5  cd repo
+    6  ls
+    7  cat README.md
+    8  git log
+    9  git show 0622b73250502618babac3d174724bb303c32182
+    10  git show 3621de89d8eac9d3b64302bfb2dc67e9a566decd
+    11 history
+4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7
+# 29 level
+    1  mkdir /tmp/29
+    2  cd /tmp/29
+    3  git clone ssh://bandit29-git@localhost:2220/home/bandit29-git/repo   
+    4  ls
+    5  cd repo
+    6  ls
+    7  cat README.md
+    8  git log
+    9  git show e65a928cca4db1863b478cf5e93d1d5b1c1bd6b2
+    10  git show 6ac7796430c0f39290a0e29a4d32e5126544b022
+    11  git branch
+    12  git branch -a
+    13  git checkout dev
+    14  git branch -a
+    15  ls
+    16  ls
+    17  cd code
+    18  ls
+    19  cat gif2ascii.py
+    20  cd ..
+    21  cat README.md
+    22  history
+qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL
+# 30 level
+    1  mkdir /tmp/ejercicio30
+    2  cd /tmp/ejercicio30
+    3  git clone ssh://bandit30-git@localhost:2220/home/bandit30-git/repo   
+    4  ls
+    5  cd repo
+    6  ls
+    7  cat README.md
+    8  git log
+    9  git show
+    10  git branch -a
+    11  git tag
+    12  git show secret
+    13  history
+fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy
+
 
 
 
