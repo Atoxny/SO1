@@ -22,6 +22,12 @@
 ## Level 10
     uUJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk
 ## Level 11
+    cookie: HmYkBwozJw4WNyAAFyB1VUc9MhxHaHUNAic4Awo2dVVHZzEJAyIxCUc5
+    password: yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeBb
+## Level 12
+    trbs5pCjCrkuSknBBKHhaBxq6Wm1j3LCc
+
+
 
 
 
