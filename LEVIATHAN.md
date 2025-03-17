@@ -5,7 +5,6 @@
 ## level 1
 NsN1HwFoyN
 ## level 2
-f0n8h2iWLP
     1  mktemp -d
     2  touch /tmp/tmp.UPkwjQdgjI/"test file.txt"
     3  ls -la /tmp/tmp.UPkwjQdgjI
@@ -16,8 +15,8 @@ f0n8h2iWLP
     8  ./prinfile /tmp/tmp.UPkwjQdgjI/"test file.txt"
     9  ./printfile /tmp/tmp.UPkwjQdgjI/"test file.txt"
     10  history
+f0n8h2iWLP
 ## level 3
-WG1egElCvO
     1  pwd
     2  whoami
     3  ls -la
@@ -34,9 +33,9 @@ WG1egElCvO
         WG1egElCvO
     11  $ exit
     12  history
+WG1egElCvO
 
 ## level 4
-0dyxT7F4QD
     1  pwd
     2  ls -la
     3  cd .trash
@@ -44,9 +43,9 @@ WG1egElCvO
     6  ./bin
     7  echo 0011000001100100011110010111100001010100001101110100011000110100010100010100010000001010 | perl -lpe '$_=pack"B*",$_'
     8  history
+0dyxT7F4QD
 
 ## level 5
-szo7HDB88w
     1  pwd
     2  whoami
     3  ls -la
@@ -57,3 +56,4 @@ szo7HDB88w
     8    ln -s /etc/leviathan_pass/leviathan6 /tmp/file.log
     9  ./leviathan5
     10  history
+szo7HDB88w
