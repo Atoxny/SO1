@@ -45,7 +45,7 @@ WG1egElCvO
     7  echo 0011000001100100011110010111100001010100001101110100011000110100010100010100010000001010 | perl -lpe '$_=pack"B*",$_'
     8  history
 
-level 5
+## level 5
 szo7HDB88w
     1  pwd
     2  whoami
